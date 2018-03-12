@@ -70,14 +70,14 @@
   }
   
   .wrapper ul li:hover .fa-linkedin {
-    color: #3b5998;
-    text-shadow: 0 0 15px #3b5998;
+    color: #5478c7;
+    text-shadow: 0 0 15px #5478c7;
     transition: all 0.5s ease;
 
   }  /*github*/
   .wrapper ul li:hover.github {
-    border: 5px solid #3b5998;
-    box-shadow: 0 0 15px #3b5998;
+    border: 5px solid #61656e;
+    box-shadow: 0 0 15px #61656e;
     transition: all 0.5s ease;
   }
   
