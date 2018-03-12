@@ -1,4 +1,5 @@
-Only updates when commiting on master ?
+Only updates when commiting on master ? 
+And only when editing .md?
 
 
 ## Welcome to GitHub Pages
